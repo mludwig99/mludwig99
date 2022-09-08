@@ -5,6 +5,7 @@ At It, I also have friends who sometimes tell me about their work. I started wit
 I am looking for a job or an internship. Thanks to this, I will be able to concentrate more on learning and development in the chosen direction. On its part, it guarantees commitment and high motivation to work.
 
 Skills: JS / REACT / HTML / CSS/ WordPress / Bootstrap 	![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 
